@@ -34,21 +34,24 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2024-12-05 at 11 23 39_b6142d5e](https://github.com/user-attachments/assets/398ca5f5-cd37-428e-8fd1-12deb20f38a3)
+![empd_2 1](https://github.com/user-attachments/assets/1d6cef3b-3c0f-456c-a8a9-ee1cceb4a893)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![WhatsApp Image 2024-12-05 at 11 24 13_ad52dfd2](https://github.com/user-attachments/assets/272ec598-5ce6-4a3b-a3f8-c095950ee9d3)
+![WhatsApp Image 2024-12-05 at 11 24 13_851f153a](https://github.com/user-attachments/assets/c5773922-0fb5-4709-9cba-320848012247)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+![WhatsApp Image 2024-12-05 at 11 24 23_af5aa717](https://github.com/user-attachments/assets/ace9b889-3557-4a50-84d5-3a995c0d2104)
+
+
+![WhatsApp Image 2024-12-05 at 11 24 24_4ed7e7b3](https://github.com/user-attachments/assets/7a49210c-9c03-476d-9609-ba8d6aec3071)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:R.RUBASRI
+### Register Number:24900054
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
